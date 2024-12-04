@@ -1,4 +1,4 @@
-<img width="1470" alt="image" src=" public/Снимок экрана 2024-12-03 в 23.37.08.png">
+![Uploading Снимок экрана 2024-12-04 в 09.16.16.png…]()
 
 
 ## Getting Started
